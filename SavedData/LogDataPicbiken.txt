@@ -1,4 +1,10 @@
 ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+73	./Images/DefaultImages/hatena.png	15.08541,28.656,32.4083	1,0,0	0,1,0	0,0,1	-12.31305	-3.987002	0.2	1	Wooden_thin	4:3	98
+74	./Images/DefaultImages/hatena.png	15.08541,28.656,32.4083	1,0,0	0,1,0	0,0,1	12.14966	-3.514499	0.2	1	Wooden_thin	4:3	99
+75	./Images/t_tokyo.png	82.5,48.75,0.5	-1,0,0	0,1,0	0,0,-1	46.03846	-25.53	0.2	2	none(caption)	-1:-1	100
+76	./Images/t_osaka.png	82.5,48.75,0.5	-1,0,0	0,1,0	0,0,-1	23.83135	-25.593	0.2	1.6	none(caption)	-1:-1	101
+77	./Images/t_nagasaki.png	82.5,48.75,0.5	-1,0,0	0,1,0	0,0,-1	2.350745	-25.908	0.2	2	none(caption)	-1:-1	102
+78	./Images/t_hokkaido.png	82.5,48.75,0.5	-1,0,0	0,1,0	0,0,-1	-20.78104	-25.908	0.2	1.8	none(caption)	-1:-1	103
 2	./Images/Virtual Museum_Logo.png	0,48.75,395	1,0,0	0,1,0	0,0,1	-38.51192	31.61099	0.2	20	none(caption)	-1:-1	13
 4	./Images/t_hokkaido.png	23.70133,19.104,228.0792	-0.7295752,0,0.6839006	0,1,0	-0.6839006,0,-0.7295752	-1.190745	-5.995502	0.2	4	none(caption)	13:1	24
 5	./Images/t_nagasaki.png	23.74058,19.104,186.6024	0.7144716,0,0.6996645	0,1,0	-0.6996645,0,0.7144716	-0.4213839	-5.334	0.2	4	none(caption)	10:1	25
@@ -38,7 +44,7 @@ ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqu
 52	./Images/東大/Sub Panel 7.png	-146.25,48.75,200	0,0,1	0,1,0	-1,0,0	132.3378	-21.561	0.2	1.5	none(caption)	-1:-1	74
 53	./Images/東大/Sub Panel 8.png	-146.25,48.75,200	0,0,1	0,1,0	-1,0,0	154.9803	-21.3405	0.2	1.5	none(caption)	-1:-1	75
 54	./Images/東大/Sub Panel ９.png	0,48.75,395	1,0,0	0,1,0	0,0,1	-119.1408	-21.7815	0.2	1.5	none(caption)	-1:-1	76
-55	./Images/Virtual Museum_Logo.png	82.5,48.75,0.5	-1,0,0	0,1,0	0,0,-1	13.57085	-21.75	0.2	10	none(caption)	-1:-1	81
+55	./Images/Virtual Museum_Logo.png	82.5,48.75,0.5	-1,0,0	0,1,0	0,0,-1	11.71235	-12.174	0.2	10	none(caption)	-1:-1	81
 56	./Images/長崎大/Sub Panel 3.png	81.37957,28.656,165.4195	0,0,-1	0,1,0	-1,0,0	-18.20679	-6.192002	0.2	1.5	none(caption)	16:1	83
 57	./Images/長崎大/Sub Panel 4.png	81.37957,28.656,165.4195	0,0,-1	0,1,0	-1,0,0	1.367474	-6.223502	0.2	1.5	none(caption)	16:1	84
 58	./Images/長崎大/Sub Panel 6.png	111.5235,28.656,185.2509	1,0,0	0,1,0	0,0,1	-7.75219	-6.506999	0.2	1.5	none(caption)	26:1	85
@@ -53,5 +59,3 @@ ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqu
 69	./Images/gaku/osaka2.png	-29.66708,28.656,42.35306	-1,0,0	0,1,0	0,0,-1	-1.50992	-2.16	0.2	1	Wooden_thin	28:3	92
 70	./Images/gaku/nagasaki2.png	71.37957,28.656,128.4529	0,0,-1	0,1,0	1,0,0	-1.730957	-1.656	0.2	1	MetalGold	30:3	95
 71	./Images/gaku/nagasaki1.png	76.37957,28.656,121.4249	1,0,0	0,1,0	0,0,1	0.6134307	-1.6875	0.2	0.9	Wooden_thin	30:0	96
-73	./Images/DefaultImages/hatena.png	15.08541,28.656,32.4083	1,0,0	0,1,0	0,0,1	-10.95855	-1.656	0.2	1	Wooden_thin	4:3	98
-74	./Images/DefaultImages/hatena.png	15.08541,28.656,32.4083	1,0,0	0,1,0	0,0,1	11.01566	-1.656	0.2	1	Wooden_thin	4:3	99
